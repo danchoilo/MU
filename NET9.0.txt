@@ -1,1 +1,1 @@
-https://download.visualstudio.microsoft.com/download/pr/b0032fde-aac9-4c3e-b78c-4bd605910241/8d2aa21baac4aef9b996671cd8a48fb2/dotnet-sdk-9.0.202-win-x64.exe
+http://hackmu.net/download/net/windowsdesktop-runtime-9.0.3-win-x64.exe
